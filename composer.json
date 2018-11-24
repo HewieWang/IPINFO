@@ -1,0 +1,5 @@
+{
+    "require": {
+        "itbdw/ip-database": "^2.0"
+    }
+}
